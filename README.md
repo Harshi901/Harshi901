@@ -64,8 +64,7 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
 ---
 
 ## 💼 Featured Skills
-┌─────────────────────────────────────────┐ 
-      │ 🎯 Data Validation │ │ 📊 Dashboard Creation │ │ 📈 KPI Development │ │ 🔍 Data Quality Assurance │ │ 💡 Business Intelligence │ │ 📉 Performance Analytics │                                                                                                                                                                       └─────────────────────────────────────────┘
+┌─────────────────────────────────────────┐   │ 🎯 Data Validation │ │ 📊 Dashboard Creation │ │ 📈 KPI Development │ │ 🔍 Data Quality Assurance │ │ 💡 Business Intelligence │ │ 📉 Performance Analytics │                                                                                                           └─────────────────────────────────────────┘
 
 ---
 
