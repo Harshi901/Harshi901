@@ -1,50 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7b9ec8&height=350&section=header&text=Harshitha&desc=Data%20Analyst&descAlignY=65&fontSize=80&descFontSize=40&fontColor=ffffff" alt="header"/>
-</div>
+# Harshitha
+
+![Banner](https://your-banner-url.com/banner.png)
+
+## Data Analyst
+
+### Professional Experience
+- Company A: Data Analyst (YYYY-MM-DD to YYYY-MM-DD)
+- Company B: Data Analyst (YYYY-MM-DD to YYYY-MM-DD)
+
+### Technical Skills
+- Data Analysis
+- SQL
+- Python
+- Data Visualization
+- Machine Learning
+
+### Project Expertise
+- Project A: Brief description
+- Project B: Brief description
+
+### Social Media Links
+- [LinkedIn](https://www.linkedin.com/in/harshitha)
+- [Twitter](https://twitter.com/harshitha)
 
 ---
-
-## 👋 Hi, I'm Harshitha
-
-**Data Analytics Professional** with 1 year of experience in data validation, quality assurance, and structured data workflows as a GoAI Associate.
-
----
-
-### 🔹 Professional Experience
-- Worked with structured and unstructured datasets
-- Performed data validation and quality checks
-- Ensured accuracy and consistency in AI-generated outputs
-- Followed data processing guidelines and workflow standards
-
----
-
-### 🔹 Technical Skills
-- **SQL**: Joins, Aggregations, Data Cleaning, Null Handling
-- **Excel**: Pivot Tables, KPI Development, Advanced Formulas
-- **Power BI**: Interactive Dashboards & Data Visualization
-- **Power Query**: Data Transformation
-
----
-
-### 🔹 Project Experience
-- ✅ End-to-end Exploratory Data Analysis (EDA)
-- ✅ KPI and Business Metrics Development
-- ✅ Dashboard Creation for Sales & Performance Analysis
-- ✅ Data Cleaning & Transformation Projects
-
----
-
-### 📊 About Me
-Passionate about transforming raw data into meaningful insights that support business decisions.
-
-🚀 **Currently seeking opportunities as a Data Analyst.**
-
----
-
-### 🔗 Connect With Me
-- 📧 Email: sunkaraharshitha901@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/harshitha-sunkara-404506202]
-
----
-
-⭐️ Feel free to explore my repositories and reach out for collaborations!
+_Last Updated: 2026-02-28 16:26:24 UTC_
