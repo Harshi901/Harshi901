@@ -1,15 +1,47 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshi901/Harshi901/main/banner.png" alt="Harshitha - Data Analyst" />
-</p>
+![Banner](https://via.placeholder.com/1280x400/1e3c72/ffffff?text=Data+Analyst+|+Harshitha)
 
-<h1 align="center">Hey! I am Harshitha</h1>
-<h3 align="center">Data Analyst</h3>
+## 👋 Hi, I'm Harshitha
+
+**Data Analytics Professional** with 1 year of experience in data validation, quality assurance, and structured data workflows as a GoAI Associate.
 
 ---
 
-Welcome to my GitHub profile!  
-I work with data to uncover insights and build meaningful solutions.
+### 🔹 Professional Experience
+- Worked with structured and unstructured datasets
+- Performed data validation and quality checks
+- Ensured accuracy and consistency in AI-generated outputs
+- Followed data processing guidelines and workflow standards
 
-📊 **Skills** — Data Cleaning, EDA, Visualization, Statistical Analysis  
-🛠️ **Tools** — Python, Pandas, NumPy, SQL, Excel, Power BI  
-📈 **Interests** — Dashboards, BI, Predictive Analytics
+---
+
+### 🔹 Technical Skills
+- **SQL**: Joins, Aggregations, Data Cleaning, Null Handling
+- **Excel**: Pivot Tables, KPI Development, Advanced Formulas
+- **Power BI**: Interactive Dashboards & Data Visualization
+- **Power Query**: Data Transformation
+
+---
+
+### 🔹 Project Experience
+- ✅ End-to-end Exploratory Data Analysis (EDA)
+- ✅ KPI and Business Metrics Development
+- ✅ Dashboard Creation for Sales & Performance Analysis
+- ✅ Data Cleaning & Transformation Projects
+
+---
+
+### 📊 About Me
+Passionate about transforming raw data into meaningful insights that support business decisions.
+
+🚀 **Currently seeking opportunities as a Data Analyst.**
+
+---
+
+### 🔗 Connect With Me
+- 📧 Email: harshitha@example.com
+- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com)
+- 📊 Portfolio: [View Projects](https://yourportfolio.com)
+
+---
+
+⭐️ Feel free to explore my repositories and reach out for collaborations!
