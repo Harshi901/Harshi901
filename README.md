@@ -66,3 +66,41 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
 ## 💼 Featured Skills
 ┌─────────────────────────────────────────┐ 
       │ 🎯 Data Validation │ │ 📊 Dashboard Creation │ │ 📈 KPI Development │ │ 🔍 Data Quality Assurance │ │ 💡 Business Intelligence │ │ 📉 Performance Analytics │                                                                                                                                                                       └─────────────────────────────────────────┘
+
+---
+
+## 🚀 Current Status
+
+🔍 **Actively seeking Data Analyst opportunities** where I can leverage my skills to drive meaningful business insights.
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitha@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshi901)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📊 "Data is the new oil, and I'm here to refine it!" 🚀
+  
+  ⭐ **Feel free to explore my repositories and collaborate with me!**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Harshi901&color=blue)
+  
+</div>
+
+---
+
+## 🎨 Fun Facts
+- 🧠 Passionate about solving complex data puzzles
+- 💪 Committed to continuous learning
+- 🤝 Love collaborating with data enthusiasts
+- 📚 Always exploring new data tools & techniques
