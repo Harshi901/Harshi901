@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7b9ec8&height=250&section=header&text=Harshitha&fontSize=80&fontColor=ffffff" alt="header"/>
-</div>
-
-<div align="center">
-  <h3>📊 Data Analyst</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=7b9ec8&height=350&section=header&text=Harshitha&desc=Data%20Analyst&descAlignY=65&fontSize=80&descFontSize=40&fontColor=ffffff" alt="header"/>
 </div>
 
 ---
+
+## 👋 Hi, I'm Harshitha
 
 **Data Analytics Professional** with 1 year of experience in data validation, quality assurance, and structured data workflows as a GoAI Associate.
 
