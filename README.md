@@ -8,8 +8,6 @@
 
 ---
 
-## 👋 Hi, I'm Harshitha
-
 **Data Analytics Professional** with 1 year of experience in data validation, quality assurance, and structured data workflows as a GoAI Associate.
 
 ---
