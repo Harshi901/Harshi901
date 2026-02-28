@@ -1,4 +1,11 @@
-![Banner](https://via.placeholder.com/1280x400/1e3c72/ffffff?text=Data+Analyst+|+Harshitha)
+<div align="center">
+  
+  # 📊 Harshitha - Data Analyst
+  ### Transforming Data Into Insights
+  
+</div>
+
+---
 
 ## 👋 Hi, I'm Harshitha
 
