@@ -42,9 +42,8 @@ Passionate about transforming raw data into meaningful insights that support bus
 ---
 
 ### 🔗 Connect With Me
-- 📧 Email: harshitha@example.com
-- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com)
-- 📊 Portfolio: [View Projects](https://yourportfolio.com)
+- 📧 Email: sunkaraharshitha901@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/harshitha-sunkara-404506202]
 
 ---
 
