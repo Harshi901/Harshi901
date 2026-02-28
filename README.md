@@ -6,7 +6,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/Harshi901?label=Follow&style=social)](https://github.com/Harshi901)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/harshitha-sunkara-404506202)
   
 </div>
 
