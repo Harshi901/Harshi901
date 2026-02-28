@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Harshitha<img width="945" height="250" alt="image" src="https://github.com/user-attachments/assets/580b9d5e-11d1-40e2-afad-12c9364d0dde" />
+## 👋 Hi, I'm Harshitha<img width="945" height="250" alt="image" src="https://github.com/user-attachments/assets/" />
 
 
 🎯 **Data Analyst | GoAI Associate with 1 Year Experience in Data Validation & Reporting**  
