@@ -1,24 +1,10 @@
-# Project Title
+# Harshitha Sunkara
 
-This README file provides an overview of the project.
+![Banner](https://via.placeholder.com/800x200.png?text=My+Profile+Banner)
 
 ## Contact Information
+- **Email:** sunkaraharshitha901@gmail.com
+- **LinkedIn:** [Harshitha Sunkara](https://www.linkedin.com/in/harshitha-sunkara-404506202)
 
-- Email: sunkaraharshitha901@gmail.com
-- LinkedIn: [Harshitha Sunkara](https://www.linkedin.com/in/harshitha-sunkara-404506202)
-
-## Description
-
-Add a brief description of your project here.
-
-## Installation
-
-Instructions on how to install the project.
-
-## Usage
-
-Instructions for using the project.
-
-## License
-
-This project is licensed under the MIT License.
+## About Me
+Hello! I'm Harshitha Sunkara, and I love working on innovative projects and learning new technologies. Let's connect!
