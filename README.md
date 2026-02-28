@@ -1,25 +1,32 @@
 ## 👋 Hi, I'm Harshitha
 
-Data Analytics Professional with 1 year of experience in data validation, quality assurance, and structured data workflows as a GoAI Associate.
+🎯 **Data Analyst | GoAI Associate with 1 Year Experience in Data Validation & Reporting**  
 
-🔹 Professional Experience:
-- Worked with structured and unstructured datasets
-- Performed data validation and quality checks
-- Ensured accuracy and consistency in AI-generated outputs
-- Followed data processing guidelines and workflow standards
+💡 Skilled in transforming raw data into actionable insights, performing data cleaning, and analyzing datasets for business decisions.
 
-🔹 Technical Skills:
-- SQL (Joins, Aggregations, Data Cleaning, Null Handling)
-- Excel (Pivot Tables, KPI Development, Advanced Formulas)
-- Power BI (Interactive Dashboards & Data Visualization)
-- Power Query (Data Transformation)
+---
 
-🔹 Project Experience:
-- End-to-end Exploratory Data Analysis (EDA)
-- KPI and Business Metrics Development
-- Dashboard Creation for Sales & Performance Analysis
-- Data Cleaning & Transformation Projects
+### 🛠 Skills & Tools
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=mysql) 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel) 
+![Power BI](https://img.shields.io/badge/PowerBI-Intermediate-yellow?style=for-the-badge&logo=power-bi) 
+![Power Query](https://img.shields.io/badge/PowerQuery-Intermediate-orange?style=for-the-badge&logo=microsoft-powerquery)
 
-📊 Passionate about transforming raw data into meaningful insights that support business decisions.
+---
 
-🚀 Currently seeking opportunities as a Data Analyst.
+### 🌟 Experience Highlights
+- Worked with structured & unstructured datasets  
+- Performed data validation & quality assurance  
+- Built end-to-end analytics workflows  
+- Developed KPIs to support business decisions  
+
+---
+
+### 💬 About Me
+I specialize in **analyzing data, performing data cleaning**, and **extracting actionable insights**.  
+I’m ready to apply my SQL, Excel, and Power BI expertise to real-world business problems as a **Data Analyst**.
+
+---
+
+### 📊 GitHub Stats (Optional)
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
