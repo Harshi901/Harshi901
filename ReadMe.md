@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Harshitha%20✨&desc=Data%20Analyst%20|%20Turning%20Data%20Into%20Insights&descAlignY=62&fontSize=70&descFontSize=25&fontColor=ffffff" alt="header"/>
+  <!-- Galaxy Banner with Twinkling Stars -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Harshitha%20🚀&desc=Data%20Analyst%20|%20Turning%20Data%20Into%20Insights&descAlignY=62&fontSize=75&descFontSize=25&fontColor=ffffff&animation=twinkling" alt="header"/>
 </div>
 
 <div align="center">
@@ -86,5 +87,4 @@ With hands‑on experience in **data validation, quality assurance, and workflow
 ---
 
 ⭐ **Star my repositories** to support my work and follow for more Power BI dashboards and data‑driven projects!
-
 
