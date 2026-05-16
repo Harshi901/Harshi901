@@ -1,4 +1,3 @@
-<!-- OPTION 1: Vibrant Coral Red - UNCOMMENT TO USE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=300&section=header&text=Harshitha&desc=Data%20Analyst%20|%20Turning%20Data%20Into%20Insights&descAlignY=62&fontSize=80&descFontSize=25&fontColor=ffffff" alt="header"/>
 </div>
@@ -14,7 +13,8 @@
 
 ## 👋 Welcome to My Profile!
 
-I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into actionable insights. With 1 year of hands-on experience in data validation, quality assurance, and structured workflows, I'm dedicated to helping organizations make data-driven decisions.
+I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into actionable insights.  
+With hands‑on experience in **data validation, quality assurance, and workflow optimization**, I help organizations make smarter, data‑driven decisions.
 
 ---
 
@@ -26,10 +26,10 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
 ## 🔹 Professional Highlights
 
 **🏢 Experience:**
-- ✨ Data Validation & Quality Assurance at GoAI
-- ✨ Structured & Unstructured Data Management
-- ✨ AI-Generated Output Verification
-- ✨ Data Processing & Workflow Optimization
+- ✨ Data Validation & Quality Assurance at GoAI  
+- ✨ Structured & Unstructured Data Management  
+- ✨ AI‑Generated Output Verification  
+- ✨ Data Processing & Workflow Optimization  
 
 ---
 
@@ -44,19 +44,19 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
   
 </div>
 
-### My Skills:
-- **SQL Mastery**: Joins, Aggregations, Data Cleaning, Complex Queries
-- **Excel Excellence**: Pivot Tables, Advanced Formulas, KPI Development
-- **Power BI Magic**: Interactive Dashboards, Data Storytelling
-- **Power Query**: ETL, Data Transformation, Automation
+### My Skills
+- **SQL Mastery:** Joins, Aggregations, Data Cleaning, Complex Queries  
+- **Excel Excellence:** Pivot Tables, Advanced Formulas, KPI Development  
+- **Power BI Magic:** Interactive Dashboards, Data Storytelling  
+- **Power Query:** ETL, Data Transformation, Automation  
 
 ---
 
 ## 📊 Project Expertise
 
 | Project Type | Specialization |
-|---|---|
-| 📈 **EDA** | End-to-end Exploratory Data Analysis |
+|---------------|----------------|
+| 📈 **EDA** | End‑to‑end Exploratory Data Analysis |
 | 📊 **Dashboards** | Sales, Performance & KPI Visualization |
 | 🔍 **Data Cleaning** | Transformation & Quality Assurance |
 | 📉 **Metrics** | Business KPI & Performance Tracking |
@@ -64,15 +64,21 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
 ---
 
 ## 💼 Featured Skills
-┌─────────────────────────────────────────┐   
-│ 🎯 Data Validation │ │ 📊 Dashboard Creation │ │ 📈 KPI Development │ │ 🔍 Data Quality Assurance │ │ 💡 Business Intelligence │ │ 📉 Performance Analytics │                                                                                                      
-└─────────────────────────────────────────┘
+🎯 Data Validation • 📊 Dashboard Creation • 📈 KPI Development • 🔍 Data Quality Assurance • 💡 Business Intelligence • 📉 Performance Analytics
+
+---
+
+## 💡 Business Insights
+- **Market Leaders:** ChatGPT, Gemini, and Copilot dominate adoption — focus on learning and research features.  
+- **Mixed Academic Outcomes:** Equal grade improvement and decline — opportunity for guided learning workflows.  
+- **High Engagement in Older Students:** Ages 22–24 show highest usage — tailor solutions for advanced learners.  
+- **Balanced Gender Satisfaction:** No major bias — emphasize inclusivity.  
+- **City‑Level Opportunities:** Jaipur, Delhi, and Bangalore lead usage — ideal for pilot programs and partnerships.  
 
 ---
 
 ## 🚀 Current Status
-
-🔍 **Actively seeking Data Analyst opportunities** where I can leverage my skills to drive meaningful business insights.
+🔍 **Actively seeking Data Analyst opportunities** to apply my skills in transforming data into meaningful business insights.
 
 ---
 
@@ -81,27 +87,12 @@ I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into acti
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunkaraharshitha901@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshi901)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshi901)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 📊 "Data is the new oil, and I'm here to refine it!" 🚀
-  
-  ⭐ **Feel free to explore my repositories and collaborate with me!**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Harshi901&color=blue)
   
 </div>
 
 ---
 
-## 🎨 Fun Facts
-- 🧠 Passionate about solving complex data puzzles
-- 💪 Committed to continuous learning
-- 🤝 Love collaborating with data enthusiasts
-- 📚 Always exploring new data tools & techniques
+⭐ **Star my repositories** to support my work and follow for more Power BI dashboards and data‑driven projects!
+
