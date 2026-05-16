@@ -14,4 +14,75 @@
 ## 👋 Welcome to My Profile!
 
 I'm **Harshitha**, a passionate **Data Analyst** transforming raw data into actionable insights.  
-With hands‑on experience
+With hands‑on experience in **data validation, quality assurance, and workflow optimization**, I help organizations make smarter, data‑driven decisions.
+
+---
+
+## 🎯 What I Do
+📊 Data Analysis → 💡 Insights → 📈 Business Growth
+
+---
+
+## 🔹 Professional Highlights
+
+**🏢 Experience:**
+- ✨ Data Validation & Quality Assurance at GoAI  
+- ✨ Structured & Unstructured Data Management  
+- ✨ AI‑Generated Output Verification  
+- ✨ Data Processing & Workflow Optimization  
+
+---
+
+## 🛠️ Technical Toolkit
+
+<div align="center">
+  
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+</div>
+
+### My Skills
+- **SQL Mastery:** Joins, Aggregations, Data Cleaning, Complex Queries  
+- **Excel Excellence:** Pivot Tables, Advanced Formulas, KPI Development  
+- **Power BI Magic:** Interactive Dashboards, Data Storytelling  
+- **Power Query:** ETL, Data Transformation, Automation  
+
+---
+
+## 📊 Project Expertise
+
+| Project Type | Specialization |
+|---------------|----------------|
+| 📈 **EDA** | End‑to‑end Exploratory Data Analysis |
+| 📊 **Dashboards** | Sales, Performance & KPI Visualization |
+| 🔍 **Data Cleaning** | Transformation & Quality Assurance |
+| 📉 **Metrics** | Business KPI & Performance Tracking |
+
+---
+
+## 💼 Featured Skills
+🎯 Data Validation • 📊 Dashboard Creation • 📈 KPI Development • 🔍 Data Quality Assurance • 💡 Business Intelligence • 📉 Performance Analytics
+
+---
+
+## 🚀 Current Status
+🔍 **Actively seeking Data Analyst opportunities** to apply my skills in transforming data into meaningful business insights.
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunkaraharshitha901@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshi901)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  
+</div>
+
+---
+
+⭐ **Star my repositories** to support my work and follow for more Power BI dashboards and data‑driven projects!
