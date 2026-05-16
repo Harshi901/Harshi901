@@ -68,15 +68,6 @@ With hands‑on experience in **data validation, quality assurance, and workflow
 
 ---
 
-## 💡 Business Insights
-- **Market Leaders:** ChatGPT, Gemini, and Copilot dominate adoption — focus on learning and research features.  
-- **Mixed Academic Outcomes:** Equal grade improvement and decline — opportunity for guided learning workflows.  
-- **High Engagement in Older Students:** Ages 22–24 show highest usage — tailor solutions for advanced learners.  
-- **Balanced Gender Satisfaction:** No major bias — emphasize inclusivity.  
-- **City‑Level Opportunities:** Jaipur, Delhi, and Bangalore lead usage — ideal for pilot programs and partnerships.  
-
----
-
 ## 🚀 Current Status
 🔍 **Actively seeking Data Analyst opportunities** to apply my skills in transforming data into meaningful business insights.
 
